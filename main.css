@@ -12,7 +12,7 @@ img {
     background-color: white;
 }
 
-/* General styles */
+
 .sim-slider {
     position: relative;
 }
@@ -35,7 +35,7 @@ img {
     display: block;
 }
 
-/* Navigation item styles */
+
 div.sim-slider-arrow-left,
 div.sim-slider-arrow-right {
     width: 22px;
